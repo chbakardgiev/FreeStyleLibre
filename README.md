@@ -7,7 +7,7 @@ Then install necessary packages such as pandas
 
 `conda install -n Libre pandas requests`
 
-run the code with `python app.py`
+Activate the environment by running `conda activate Libre` then run the code with `python app.py`
 
 # Usability
 The process is not very user friendly, however, the app is reliable and imports the csv to the cloud and saves the last imported data on the machine so that you do not upload already imported data.
